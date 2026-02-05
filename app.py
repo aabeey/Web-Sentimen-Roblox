@@ -36,11 +36,11 @@ div.stButton > button:focus {
     border-radius: 8px;
     padding: 0.5em 1em;
 }
-# .result {
-#     font-size: 20px;
-#     font-weight: bold;
-#     text-align: center;
-#     margin-top: 20px;
-# }
-# </style>
+.result {
+     font-size: 20px;
+     font-weight: bold;
+     text-align: center;
+     margin-top: 20px;
+}
+</style>
 """, unsafe_allow_html=True)
