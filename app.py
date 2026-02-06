@@ -24,6 +24,8 @@ if st.button("Analisis"):
             st.error("Sentimen: Negatif")
 
 # ==== STYLE ====
+##6d8776
+#8e918f
 st.markdown("""
 <style>
 h2 { text-align: center; white-space: nowrap; }
@@ -31,7 +33,7 @@ div.stButton > button,
 div.stButton > buttonhover,
 div.stButton > button:active, 
 div.stButton > button:focus {
-    background-color: #8e918f !important;
+    background-color: #6d8776 !important;
     color: white;
     border-radius: 8px;
     padding: 0.5em 1em;
