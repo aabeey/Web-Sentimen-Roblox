@@ -33,7 +33,7 @@ div.stButton > button,
 div.stButton > buttonhover,
 div.stButton > button:active, 
 div.stButton > button:focus {
-    background-color: #6d8776 !important;
+    background-color: #8e918f !important;
     color: white;
     border-radius: 8px;
     padding: 0.5em 1em;
