@@ -24,8 +24,6 @@ if st.button("Analisis"):
             st.error("Sentimen: Negatif")
 
 # ==== STYLE ====
-##6d8776
-#8e918f
 st.markdown("""
 <style>
 h2 { text-align: center; white-space: nowrap; }
